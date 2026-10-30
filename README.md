@@ -1,4 +1,4 @@
-# Geonauta
+# Órbita
 
 Aplicación Android para explorar el mundo por regiones. Permite consultar los países de cada región, ver los datos de un país y sus ciudades sobre un mapa, junto con el clima actual de cada ciudad.
 
