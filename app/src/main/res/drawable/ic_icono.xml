@@ -1,0 +1,30 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Globo -->
+    <path
+        android:pathData="M30,54a24,24 0 1,0 48,0a24,24 0 1,0 -48,0"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3" />
+    <path
+        android:pathData="M44,54a10,24 0 1,0 20,0a10,24 0 1,0 -20,0"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5" />
+    <path
+        android:pathData="M30,54L78,54"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5" />
+
+    <!-- Pin -->
+    <path
+        android:fillColor="#FFB300"
+        android:pathData="M54,70C54,70 41,58 41,47a13,13 0 0,1 26,0C67,58 54,70 54,70z"
+        android:strokeColor="#0B5FA5"
+        android:strokeWidth="3" />
+    <path
+        android:fillColor="#0B5FA5"
+        android:pathData="M49.5,47a4.5,4.5 0 1,0 9,0a4.5,4.5 0 1,0 -9,0" />
+</vector>

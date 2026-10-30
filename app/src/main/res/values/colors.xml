@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Acento (capital) -->
+    <color name="resaltado">#FFB300</color>
+    <color name="resaltado_fondo">#26FFB300</color>
+
+    <!-- Modo claro -->
+    <color name="md_primary">#0B5FA5</color>
+    <color name="md_on_primary">#FFFFFF</color>
+    <color name="md_primary_container">#D3E4FF</color>
+    <color name="md_on_primary_container">#001C3A</color>
+
+    <color name="md_secondary">#00796B</color>
+    <color name="md_on_secondary">#FFFFFF</color>
+    <color name="md_secondary_container">#B2DFDB</color>
+    <color name="md_on_secondary_container">#00201C</color>
+
+    <color name="md_background">#F7F9FC</color>
+    <color name="md_on_background">#1A1C1E</color>
+    <color name="md_surface">#FFFFFF</color>
+    <color name="md_on_surface">#1A1C1E</color>
+    <color name="md_on_surface_variant">#44474E</color>
+    <color name="md_outline">#74777F</color>
+
+</resources>
